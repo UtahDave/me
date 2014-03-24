@@ -5,7 +5,7 @@
 Usage:
   me list
   me add <item>
-  me delete2 <item>
+  me delete <item>
   me finish <item>
   me -h | --help
   me --version
