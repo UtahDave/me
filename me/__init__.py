@@ -31,6 +31,7 @@ def main():
     '''Main entry point for the me CLI.'''
     args = docopt(__doc__, version=__version__)
     me.utils.verify_env()
+    opts = me.utils.load_opts()
     print(args)
 
 if __name__ == '__main__':
