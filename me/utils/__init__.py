@@ -5,10 +5,10 @@ Common utilities
 '''
 
 #import python libs
-from __future__ import unicode_literals, print_function
 import os
 from os.path import expanduser
 import yaml
+from __future__ import unicode_literals, print_function
 
 HOME = expanduser('~')
 TASKFILEPATH = os.path.join(HOME, '.me')
