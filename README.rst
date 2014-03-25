@@ -2,14 +2,9 @@
 me
 ===============================
 
-.. image:: https://badge.fury.io/py/me.png
-    :target: http://badge.fury.io/py/me
 
 .. image:: https://travis-ci.org/UtahDave/me.png?branch=master
         :target: https://travis-ci.org/UtahDave/me
-
-.. image:: https://pypip.in/d/me/badge.png
-        :target: https://crate.io/packages/me?version=latest
 
 
 Simple CLI todo list
@@ -17,7 +12,8 @@ Simple CLI todo list
 Features
 --------
 
-* TODO
+me is a simple cli TODO app that I'm using for testing and practice purposes.
+I recommend NOT attempting to use this as I will break this frequently.  :)
 
 Requirements
 ------------
